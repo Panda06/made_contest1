@@ -1,7 +1,4 @@
-"""Script for baseline training. Model is ResNet18 (pretrained on ImageNet). Training takes ~ 15 mins (@ GTX 1080Ti).
-Был заменен лосс и увеличено количество эпох до 5 по сравнению с бейзлайном. К сожалению, поздно подключился к решению контеста
-
-"""
+"""Script for baseline training. Model is ResNet18 (pretrained on ImageNet). Training takes ~ 15 mins (@ GTX 1080Ti)."""
 
 import os
 import pickle
